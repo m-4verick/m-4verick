@@ -1,2 +1,4 @@
 # 개발을 죠낸 잘하고싶은 매버릭
-![image](https://github.com/user-attachments/assets/0080c42a-6e36-4523-a2fe-4f9f4c03ffac)
+<center>
+![hell-yeah-breaking-bad](https://github.com/user-attachments/assets/db3219fc-0ada-4d6e-aa88-4bc9c242be10)
+</center>
