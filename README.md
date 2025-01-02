@@ -3,7 +3,7 @@
 
 ### 미친듯이 고수가 되고싶다.....
 
-## 내가 배워야할 것들. 아는 것들. 경험해본 것들.
+## 내가 배워야할 것들. 아는 것들. 경험해본 것들. 배우고 싶은 것들...
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
