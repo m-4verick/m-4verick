@@ -1,7 +1,5 @@
 # 😄 Hey! Nice to see you.
-Welcome to my profile!
-I'm Jinho, Learning Web programming from Korea(not north).<br>
-currently living in Ilsan, Korea
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EB%82%98%EB%8A%94+%EC%8C%89%EA%B3%A0%EC%88%98%EA%B0%80+%EB%90%A0%EB%81%84%EC%95%BC...)](https://git.io/typing-svg)
 
 ### 미친듯이 고수가 되고싶다.....
 
@@ -39,3 +37,6 @@ currently living in Ilsan, Korea
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
